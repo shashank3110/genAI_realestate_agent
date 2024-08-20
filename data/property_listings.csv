@@ -1,26 +1,21 @@
-Location;Price;Size in Sqft;Number of Bedrooms;Number of Bathrooms;Property Age
-New York;1000000;1500;3;2;5
-New York;1500000;2000;4;3;10
-New York;800000;1200;2;1;2
-New York;1200000;1800;3;2;7
-New York;900000;1300;2;1;4
-Los Angeles;900000;1800;3;2;8
-Los Angeles;1200000;2500;4;3;12
-Los Angeles;750000;1500;2;1;5
-Los Angeles;1100000;2000;3;2;10
-Los Angeles;850000;1600;2;1;6
-Chicago;800000;2000;3;2;15
-Chicago;1100000;2500;4;3;20
-Chicago;700000;1500;2;1;10
-Chicago;950000;1800;3;2;18
-Chicago;750000;1400;2;1;12
-Miami;1200000;1800;3;2;5
-Miami;1500000;2500;4;3;8
-Miami;1000000;1500;2;1;3
-Miami;1300000;2000;3;2;6
-Miami;900000;1300;2;1;4
-San Francisco;2000000;2500;4;3;10
-San Francisco;1800000;2000;3;2;8
-San Francisco;1500000;1800;2;1;5
-San Francisco;2200000;3000;5;4;12
-San Francisco;1700000;2200;3;2;7
+Neighborhood;Price;Size in Sqft;Number of Bedrooms;Number of Bathrooms;Property Age;Description;Neighborhood Description
+Downtown;500000;1000;2;1;5;Cozy condo in the heart of the city;Vibrant neighborhood with plenty of restaurants and shops
+Downtown;750000;1500;3;2;10;Spacious loft with city views;Close to public transportation and nightlife
+Downtown;1000000;2000;4;3;15;Luxurious penthouse with rooftop terrace;Walking distance to parks and museums
+Downtown;600000;1200;2;2;8;Modern apartment with balcony;Convenient location near grocery stores and cafes
+Downtown;900000;1800;3;2;12;Renovated townhouse with private garden;Historic neighborhood with tree-lined streets
+Midtown;450000;900;2;1;7;Charming bungalow with original details;Family-friendly area with good schools
+Midtown;650000;1300;3;2;12;Contemporary townhome with open floor plan;Close to shopping centers and public parks
+Midtown;800000;1600;4;3;20;Colonial-style house with large backyard;Quiet neighborhood with tree-lined streets
+Midtown;550000;1100;2;2;10;Cozy cottage with updated kitchen;Walking distance to restaurants and cafes
+Midtown;750000;1500;3;2;15;Modern condo with rooftop deck;Close to public transportation and entertainment venues
+Uptown;700000;1400;3;2;10;Spacious duplex with hardwood floors;Upscale neighborhood with luxury boutiques and fine dining
+Uptown;950000;1900;4;3;18;Victorian mansion with original features;Close to parks and cultural attractions
+Uptown;1200000;2400;5;4;25;Custom-built estate with pool and guest house;Exclusive neighborhood with gated entrances
+Uptown;800000;1600;3;2;12;Contemporary townhouse with rooftop terrace;Walking distance to shopping and entertainment
+Uptown;1100000;2200;4;3;20;Luxurious penthouse with city views;Close to public transportation and upscale restaurants
+West End;400000;800;2;1;5;Cozy ranch-style home with fenced yard;Family-friendly neighborhood with good schools
+West End;600000;1200;3;2;10;Renovated craftsman bungalow with modern amenities;Close to parks and community centers
+West End;750000;1500;4;3;15;Spacious colonial house with wrap-around porch;Quiet neighborhood with tree-lined streets
+West End;500000;1000;2;2;8;Modern townhome with attached garage;Close to shopping centers and public parks
+West End;700000;1400;3;2;12;Contemporary condo with balcony;Walking distance to restaurants and cafes
